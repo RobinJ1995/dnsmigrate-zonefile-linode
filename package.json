@@ -1,0 +1,24 @@
+{
+  "name": "dnsmigrate-zonefile-linode",
+  "version": "1.0.0",
+  "description": "Reads DNS zone files and imports them into Linode",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobinJ1995/dnsmigrate-zonefile-linode.git"
+  },
+  "author": "Robin Jacobs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobinJ1995/dnsmigrate-zonefile-linode/issues"
+  },
+  "homepage": "https://github.com/RobinJ1995/dnsmigrate-zonefile-linode#readme",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "dns-zonefile": "^0.2.2",
+    "linode-api-node": "^1.2.1"
+  }
+}

@@ -1,0 +1,6 @@
+{
+	"zone_dir": "./named/",
+	"linode_api_key": "PASTE_API_KEY_HERE",
+	"soa_email": "PUT_EMAIL_HERE",
+	"remove_existing": false
+}
